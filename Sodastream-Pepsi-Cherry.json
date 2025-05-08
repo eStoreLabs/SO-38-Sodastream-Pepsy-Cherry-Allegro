@@ -1,0 +1,92 @@
+[
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-01.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "SODASTREAM SYROP Pepsi Cherry, 440 ml"
+    },
+    "text": {
+      "content": "<h3>SODASTREAM SYROP Pepsi Cherry, 440 ml</h3>",
+      "order": "FIRST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-02.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Pepsi Cherry"
+    },
+    "text": {
+      "content": "<p>Poznaj SodaStream Pepsi Cherry - znaną i lubianą Pepsi z aromatyczną, wiśniową nutą. Połącz koncentrat z wodą gazowaną i ciesz się kultowym smakiem Pepsi Cherry w domowym wydaniu. Decyduj o intensywności bąbelków i delektuj się słodkim orzeźwieniem na własnych zasadach.</p><p><strong>Co zyskujesz z SodaStream?</strong></p><p>- Ulubione napoje bez wychodzenia z domu.</p><p>- Pełną kontrolę nad smakiem i poziomem nagazowania.</p><p>- Mniej jednorazowych butelek, więcej radości z bąbelków.</p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-03.png",
+      "size": "L",
+      "alt": "Gazuj, Miksuj, Smakuj"
+    },
+    "text": {
+      "content": "<p>Ciesz się bąbelkami o smaku Pepsi Cherry zawsze wtedy, gdy masz na to ochotę! Wybierz idealny poziom intensywności smaku oraz nagazowania i delektuj się kultowym smakiem Pepsi z wiśniowym akcentem, dostosowanym do Twojego gustu.</p><p>Jedna butelka syropu o pojemności 440 ml pozwoli Ci przygotować aż 9 litrów napoju – to więcej bąbelkowej przyjemności dla Ciebie i Twoich bliskich!</p><p><strong>Smakuj bąbelki na swoich zasadach!</strong></p><h3>Domowa Pepsi Cherry – gotowa w 3 prostych krokach</h3><ol><li><strong>Bąbelkowe orzeźwienie –</strong>Nagazuj wodę, dostosowując intensywność bąbelków. To one nadadzą Twojemu napojowi orzeźwiający charakter.</li><li><strong>Wiśniowy smak –</strong>Dodaj syrop SodaStream Pepsi Cherry i delikatnie wymieszaj. Ciesz się smakiem kultowej Pepsi z wiśniowym akcentem.</li><li><strong>Dodatki –</strong>Uzupełnij napój lodem, plasterkiem cytryny lub innymi, ulubionymi dodatkami.</li></ol><p>PAMIĘTAJ! Nie gazuj wody z dodatkami, syropy lub kawałki owoców dodawaj zawsze do nagazowanej wody.</p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-04.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Bąbelkowe orzeźwienie "
+    },
+    "text": {
+      "content": "<h3>Codzienne orzeźwienie z SodaStream!</h3><p>Z syropem Pepsi Cherry, każdy dzień nabiera wyjątkowego smaku. Eksperymentuj i twórz napoje, które idealnie pasują do Twojego nastroju:</p><p><strong>Poranny zastrzyk energii –</strong>Rozpocznij dzień orzeźwiającą Pepsi Cherry. Delikatne bąbelki z wiśniowym akcentem obudzą Cię lepiej niż kawa.</p><p><strong>Popołudniowe orzeźwienie –</strong>Ugaś pragnienie i dodaj sobie sił w ciągu dnia. Przygotuj ulubioną Pepsi Cherry z mrożonymi wiśniami i ciesz się chwilą wytchnienia.</p><p><strong>Wieczorny relaks –</strong>Zrelaksuj się po ciężkim dniu z domową Pepsi Cherry. Dodaj zioła i cytrynę lub inne ulubione dodatki i stwórz idealny napój na wieczór.</p>",
+      "order": "FIRST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-05.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Bąbelkowy informator "
+    },
+    "text": {
+      "content": "<h3>Bąbelkowa wiedza w pigułce</h3><p><strong>Jak regulować nagazowanie wody?</strong></p><p>Po zamontowaniu butelki w saturatorze naciśnij przycisk lub wajchę:</p><p><strong>1-3 przyciśnięcia –</strong>woda lekko gazowana,</p><p><strong>3-4 przyciśnięcia –</strong>woda średnio gazowana,</p><p><strong>5 przyciśnięć –</strong>woda mocno gazowana.</p><p><strong>Jak często trzeba wymieniać nabój z CO₂?</strong></p><p>Saturatory SodaStream wykorzystują moc dwutlenku węgla. Jeden nabój CO₂ wystarcza na przygotowanie ok. 60 l wody, to równowartość aż 40 butelek o pojemności 1,5l!</p><p><strong>Czy SodaStream nadaje się na prezent?</strong></p><p>Tak, ekspres do gazowania wody to świetny prezent na urodziny, święta czy parapetówkę. Spodoba się miłośnikom eko nawyków i praktycznych rozwiązań, którzy lubią funkcjonalne i designerskie gadżety.</p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD-06.png",
+      "size": "L",
+      "alt": "Bąbelkowa przygoda z SodaStream"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-07.png",
+      "size": "L",
+      "alt": "Syropy"
+    },
+    "text": {
+      "content": "<h3>Twoje ulubione bąbelki, Twój wybór!</h3><p><strong>Kultowe napoje na własnych zasadach</strong></p><p>Pepsi, Mirinda, 7UP i Lipton Ice Tea Peach – teraz możesz cieszyć się nimi w dowolnym momencie.</p><p><strong>Klasyka, która nigdy nie zawodzi</strong></p><p>SodaStream Cola, Tonic, Cytryna Limonka i Xtreme Energy to kwintesencja wyrazistego smaku w gazowanym wydaniu.</p><p><strong>Owocowa świeżość na co dzień</strong></p><p>Kwiat Czarnego Bzu , Marakuja, Pomarańcza Mango, Malina i Owoce Leśne – to soczyste smaki, które ożywią każdy bąbelkowy napój.</p><p><strong>Bąbelkowa kreatywność</strong></p><p>SodaStream Crafted to idealne bazy do koktajli i moktajli – baw się smakiem i twórz niezapomniane kompozycje!</p>",
+      "order": "FIRST",
+      "align": "MID"
+    }
+  }
+]
